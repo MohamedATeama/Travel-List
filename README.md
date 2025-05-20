@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You can visit [Travel List](https://mohamedateama.github.io/Travel-List/).
 
 ## Available Scripts
 
